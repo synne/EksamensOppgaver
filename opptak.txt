@@ -1,0 +1,2 @@
+Navn:Simen, OK, 7, 300, 10
+Navn:er, IKKE OK, 3, 2, 
